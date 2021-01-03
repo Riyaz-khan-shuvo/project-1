@@ -1,0 +1,35 @@
+.about-us-area {
+    /* background-image: linear-gradient(#ECF4EC , #F4FCF4)  ; */
+    /* background: #F0FFF0; */
+    background-image: linear-gradient(#F7FFF7, #F3FBF3);
+}
+
+.about-us p {
+    font-size: 21px;
+}
+
+.button-area button {
+    width: 100%;
+    padding: 9px 7px;
+    border: none;
+    margin-top: 15px;
+}
+
+/* @media(max-width:769px) {
+    .about-us {
+        margin-left: 7%;
+    }
+    
+    .secretry-area *{
+        margin-left: 2%;
+    }
+} */
+
+@media(max-width:575px) {
+    .about-us * {
+        margin-left: 11%;
+    }
+    .secretry-area *{
+        margin-left: 1.5%;
+    }
+}

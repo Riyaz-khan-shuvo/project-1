@@ -1,0 +1,16 @@
+@media(max-width: 575px){
+    .president-img *{
+        margin-left: 11%;
+    }
+    .know-president *{
+        margin-left: 10%;
+    }
+}
+/* @media(max-width: 769px){
+    .know-president{
+        margin-left: 5%;
+    }
+    .president-img{
+        margin-left: 5%;
+    }
+} */

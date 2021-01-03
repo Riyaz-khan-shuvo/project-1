@@ -1,0 +1,12 @@
+.slider-area{
+    
+}
+.slider-area img{
+    height: 455px;
+    width: auto;
+}
+@media(max-width:575px){
+    .slider-area *{
+        margin-left: 2.3%;
+    }
+}

@@ -1,0 +1,21 @@
+.our-mission-area{
+    background: url('../../../images/biography-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.our-mission{
+    /* background-image: url('../../../images/exp-bg.png');
+    background-position: left;
+    background-repeat: no-repeat; */
+}
+
+
+@media(max-width:575px){
+    .our-mission{
+        margin-left: 5%;
+    }
+    .our-vision{
+        margin-left: 5%;
+    }
+}

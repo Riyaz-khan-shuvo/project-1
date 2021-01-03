@@ -1,0 +1,16 @@
+.event-area:hover{
+    box-shadow: 2px 2px 20px lightslategray;
+    border-radius: 10px;
+}
+
+/* @media(max-width:769px){
+    .event-area{
+        margin-left: 9%;
+    }
+} */
+
+@media(max-width:575px){
+    .event-area{
+        margin-left: 11%;
+    }
+}
